@@ -1,2 +1,6 @@
 Convertidor de Unidades
-Programa realizado en Python con Panda y OpenPyxl para convertir unidades de Centimetros a Pulgadas
+Programa realizado en Python con Panda y OpenPyxl para convertir unidades de Centimetros a Pulgadas.
+
+Para poder ejecutar este proyecto despues de clonarlo debes hacer en la carpeta del proyecto las siguentes instrucciones:
+
+pip install -r requerimientos.txt
